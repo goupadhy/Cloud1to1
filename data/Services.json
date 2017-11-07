@@ -2059,7 +2059,7 @@
       {
         "name": "Alibaba Disaster Recovery",
         "ref": "https://www.alibabacloud.com/solutions/hosting/Disaster-Recovery",
-        "icon": "alibaba.png",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3771,7 +3771,7 @@
       {
         "name": "Blockchain",
         "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
-        "icon": "alibaba.png",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3955,7 +3955,7 @@
       {
         "name": "Alibaba Cloud Marketplace",
         "ref": "https://www.alibabacloud.com/marketplace",
-        "icon": "alibaba.png",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
