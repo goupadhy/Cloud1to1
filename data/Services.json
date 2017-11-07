@@ -1478,9 +1478,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Cloud SDK",
+        "ref": "https://github.com/aliyun",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -1965,9 +1965,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Command Line Interfaces",
+        "ref": "https://github.com/aliyun/aliyun-cli",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -2647,9 +2647,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Search Coming soon",
+        "ref": "https://www.alibabacloud.com/",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -2696,9 +2696,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Coming soon",
+        "ref": "https://www.alibabacloud.com/",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -2892,9 +2892,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Coming soon",
+        "ref": "https://www.alibabacloud.com/",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -2941,8 +2941,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "Alibaba Speech API",
+        "ref": "https://www.alibabacloud.com/",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -2996,9 +2996,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Image Recognition",
+        "ref": "https://www.alibabacloud.com/",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3056,9 +3056,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Machine Learning Coming Soon",
+        "ref": "https://www.alibabacloud.com/",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3277,9 +3277,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Mobile Security",
+        "ref": "https://www.alibabacloud.com/product/mobile-security",
+        "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3725,9 +3725,9 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
+        "name": "Alibaba Notification",
+        "ref": "https://www.alibabacloud.com/product/cloud-monitor",
+        "icon": "CloudMonitor.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3770,7 +3770,7 @@
     "alibaba": [
       {
         "name": "Blockchain",
-        "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
+        "ref": "https://www.alibabacloud.com",
         "icon": "alibaba_logo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3812,9 +3812,9 @@
     ],
     "alibaba": [
       {
-        "name": "ALibaba Blockchain coming soon",
+        "name": "Alibaba Chatbot coming soon",
         "ref": "",
-        "icon": "none.png",
+        "icon": "alibaba_logo.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
