@@ -231,7 +231,7 @@ s.setAttribute('data-timestamp', +new Date());
               trHTML += dataprocessor(value.aws,'aws');
               trHTML += dataprocessor(value.azure,'azure');
               trHTML += dataprocessor(value.google,'gcp');
-              trHTML += dataprocessor(value.google, 'gcp');
+              trHTML += dataprocessor(value.alibaba, 'alibaba');
              // trHTML += '<tr><td></td><td>' + PropertyProcessor(value.service.Properties) + '</td><td>' + PropertyProcessor(value.aws[0].Properties) + '</td><td>' + PropertyProcessor(value.azure[0].Properties) +  '</td><td>' + PropertyProcessor(value.google[0].Properties) + '</td><td>' + PropertyProcessor(value.ibm[0].Properties) + '</td><td>' + PropertyProcessor(value.oracle[0].Properties) + '</td></tr>';
           });
 		$('#comparetable').append(trHTML);
