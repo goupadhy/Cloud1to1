@@ -164,7 +164,7 @@ hr.small {
 /* To mantain the navbar at the bottom*/
 header {
   width: 100%;
-  min-height:calc(100vh - 52px);
+  min-height:calc(100vh - 552px);
 }
 
 
