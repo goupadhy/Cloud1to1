@@ -178,7 +178,7 @@
     ],
     "alibaba": [
       {
-        "name": "Alibaba Bluemix Container Service",
+        "name": "Alibaba  Container Service",
         "ref": "https://www.alibabacloud.com/product/container-service",
         "icon": "ContainerServi.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
