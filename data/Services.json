@@ -85,7 +85,7 @@
     ],
     "alibaba": [
       {
-        "name": "Bare Metal Servers",
+        "name": "Elastic High Performance Computing",
         "ref": "https://www.alibabacloud.com/product/ehpc?spm=a3c0i.7911826.675768.dnavproductsa7.66c31103p43kyz#overview",
         "icon": "ehpc.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -307,8 +307,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "Coming soon",
+        "ref": "https://www.alibabacloud.com/product/vpc",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -356,8 +356,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "Coming soon",
+        "ref": "https://www.alibabacloud.com/product/vpc",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
