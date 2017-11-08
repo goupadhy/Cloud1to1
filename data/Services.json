@@ -55,50 +55,6 @@
       "ref": "http://#"
     },
     "service": {
-      "name": "Bare Metal Server",
-      "ref": "http://#",
-      "Properties": [ "Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits" ]
-    },
-    "aws": [
-      {
-        "name": "None",
-        "ref": "http://#",
-        "icon": "none.png",
-        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "None",
-        "ref": "http://#",
-        "icon": "none.png",
-        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
-      }
-    ],
-    "google": [
-     {
-        "name": "None",
-        "ref": "http://#",
-        "icon": "none.png",
-        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "None",
-        "ref": "http://#",
-        "icon": "none.png",
-        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
-      }
-    ]
-    
-  },
-  {
-    "category": {
-      "name": "Compute",
-      "ref": "http://#"
-    },
-    "service": {
       "name": "Container Registration Service",
       "ref": "http://#",
       "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
