@@ -73,14 +73,7 @@
                                     </tr>
                                 </thead>
                             </table>
-                            <div class="row">    
-                                    <div class="col-xs-02" id="rss-aws"></div> 
-                                    <div class="col-xs-02" id="rss-azure"></div>
-                                    <div class="col-xs-02" id="rss-gcp"></div>
-                                    <div class="col-xs-02" id="rss-ibm"></div>
-                                    <div class="col-xs-02" id="rss-oracle"></div>
-                                    <div class="col-xs-02" id="rss-alibaba"></div>
-                                </div>
+                            
                         </div>
                     </div>
                     <!-- /.col-lg-10 -->
@@ -214,34 +207,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.5/jquery.floatThead-slim.js"></script>
         
         <script>
-            jQuery(function($) {
-              $("#rss-aws").rss("https://aws.amazon.com/new/feed/",
-              {
-                limit: 05,
-                effect: 'slideFastSynced',
-                entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
-              })
-           
-              $("#rss-azure").rss("https://azure.microsoft.com/en-in/blog/topics/announcements/feed/",
-              {
-                entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
-              })
             
-              $("#rss-gcp").rss("http://googlecloudplatform.blogspot.com/atom.xml",
-              {
-                entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
-              })
-            
-              $("#rss-ibm").rss("https://www.ibm.com/blogs/cloud-announcements/feed/",
-              {
-                entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
-              })
-            
-              $("#rss-aws").rss("https://blogs.oracle.com/rss",
-              {
-                entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
-              })
-            })
           </script>
         
         <!-- Custom Theme JavaScript -->
